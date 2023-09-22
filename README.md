@@ -57,5 +57,3 @@ Replace filename.py with the name of your Python file, input_path with the path 
 Step 4: Completion
 
 After running the program, the backgrounds of your images will be removed, and the resulting images will be saved in the output directory you specified. You will see a message confirming the completion of the background removal process, along with the location where the images have been saved.
-
-If you encounter any issues or have additional questions, feel free to ask.
